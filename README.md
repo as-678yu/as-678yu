@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, apache and other web tool
 - 📫 How to reach me: shepjohn72@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am good at fix computer and laptop
+- ⚡ Fun fact: I am good at fixing computers and laptop 
 -->
